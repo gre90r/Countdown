@@ -28,7 +28,7 @@ try:
         if seconds < 0:
             seconds = 59
             minutes = minutes - 1
-        sleep(.05)
+        sleep(1)
 
     # countdown reached zero
     print('{:02d}:{:02d} remaining'.format(minutes, seconds))
