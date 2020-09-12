@@ -1,5 +1,5 @@
 """
-    counts down minutes and wakes when come to zero
+    counts down minutes and wakes when counter reaches zero
     @date april 2020
     @author gre90r
 """

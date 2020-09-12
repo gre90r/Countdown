@@ -1,5 +1,4 @@
 """
-    all functions here
     @author gre90r
 """
 

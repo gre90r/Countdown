@@ -1,9 +1,16 @@
-# Countdown
-by gre90r
+# What is Countdown?
+create a timer with
+* event name
+* time
+* notification type
+    * messagebox
+    * or text in commandline
 
-## Prerequisites
+# Prerequisites
 * Python 3
+
+# Dependencies
 * tkinter
 
-## Start
-run countdown.py
+# Run the application
+run `python countdown.py` or run `countdown.bat` (for windows users) to loop this application.
